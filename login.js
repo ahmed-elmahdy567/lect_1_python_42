@@ -6,3 +6,7 @@ function login(username, password){
 function login_by_email(email, password){
   
 }
+
+function login_by_totp(username, totp){
+  //totp
+}
