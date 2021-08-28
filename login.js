@@ -10,3 +10,6 @@ function login_by_email(email, password){
 function login_by_totp(username, totp){
   //totp
 }
+function validate_email(email){
+  //send email
+}
