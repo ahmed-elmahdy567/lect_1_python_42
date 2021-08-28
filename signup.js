@@ -6,7 +6,3 @@ function signup(username, email, password){
     // send post request
   })
 }
-
-function send_email(){
-  //send email
-}
